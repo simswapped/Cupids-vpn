@@ -1,0 +1,4 @@
+Requirements
+Host running Ubuntu 14.04 LTS. You can use the mini install (https://help.ubuntu.com/community/Installation/MinimalCD)
+If you plan to run it at home, please make sure you have a routable IP address. If you are not sure about it, please ask you ISP for help.
+Make sure you open the following ports on your router: tcp 80 (webserver), tcp 443 (webserver - user admin and Zenected admin), udp 500 (VPN), udp 4500 (VPN)

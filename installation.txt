@@ -1,0 +1,8 @@
+Installation
+
+Copy the networkdsource.sh into your future server to /opt folder.
+Make the file executable by: sudo chmod 750 /opt/networkdsource.sh
+Run it: sudo /opt/networkdsource.sh
+
+Once the script finishes, check if Zenected got installed by: dpkg -s zenected-aws
+please configure it by running: sudo /opt/zenected/zenected_setup.zenx

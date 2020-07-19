@@ -1,0 +1,7 @@
+Ubuntu (http://www.ubuntu.com/)
+PHP (https://secure.php.net/)
+MySQL (http://www.mysql.com/)
+daloRADIUS (http://www.daloradius.com/)
+Dnsmasq (http://www.thekelleys.org.uk/dnsmasq/doc.html)
+Squid (http://www.squid-cache.org/)
+SquidGuard (http://www.squidguard.org/)
